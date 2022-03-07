@@ -1,0 +1,15 @@
+C:\Users\yang\Desktop\PCAD5\Projects\Week6\Assignment6.2\obj\Debug\Assignment6.2.csproj.AssemblyReference.cache
+C:\Users\yang\Desktop\PCAD5\Projects\Week6\Assignment6.2\obj\Debug\Assignment6._2.Form1.resources
+C:\Users\yang\Desktop\PCAD5\Projects\Week6\Assignment6.2\obj\Debug\Assignment6._2.Properties.Resources.resources
+C:\Users\yang\Desktop\PCAD5\Projects\Week6\Assignment6.2\obj\Debug\Assignment6.2.csproj.GenerateResource.cache
+C:\Users\yang\Desktop\PCAD5\Projects\Week6\Assignment6.2\obj\Debug\Assignment6.2.csproj.CoreCompileInputs.cache
+C:\Users\yang\Desktop\PCAD5\Projects\Week6\Assignment6.2\bin\Debug\Assignment6.2.exe.config
+C:\Users\yang\Desktop\PCAD5\Projects\Week6\Assignment6.2\bin\Debug\Assignment6.2.exe
+C:\Users\yang\Desktop\PCAD5\Projects\Week6\Assignment6.2\bin\Debug\Assignment6.2.pdb
+C:\Users\yang\Desktop\PCAD5\Projects\Week6\Assignment6.2\bin\Debug\EntityFramework.dll
+C:\Users\yang\Desktop\PCAD5\Projects\Week6\Assignment6.2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yang\Desktop\PCAD5\Projects\Week6\Assignment6.2\bin\Debug\EntityFramework.xml
+C:\Users\yang\Desktop\PCAD5\Projects\Week6\Assignment6.2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yang\Desktop\PCAD5\Projects\Week6\Assignment6.2\obj\Debug\Assignment6.2.csproj.CopyComplete
+C:\Users\yang\Desktop\PCAD5\Projects\Week6\Assignment6.2\obj\Debug\Assignment6.2.exe
+C:\Users\yang\Desktop\PCAD5\Projects\Week6\Assignment6.2\obj\Debug\Assignment6.2.pdb
